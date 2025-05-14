@@ -30,5 +30,6 @@ public class Kth_Max_Min {
         int min = sc.nextInt();
         System.out.println("Minimum is : " + arr[min - 1]);
         System.out.println("Maximum is : " + arr[size - max]);
+        sc.close();
     }
 }
