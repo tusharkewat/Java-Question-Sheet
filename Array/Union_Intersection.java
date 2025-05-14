@@ -19,7 +19,6 @@ public class Union_Intersection {
                 System.out.print(arr2[i] + " ");
             }
         }
-
         System.out.println();
         System.out.print("Intersecton : ");
         for (int i = 0; i < arr1.length; i++) {
@@ -31,5 +30,4 @@ public class Union_Intersection {
             }
         }
     }
-
 }
