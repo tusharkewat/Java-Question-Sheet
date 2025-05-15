@@ -19,5 +19,4 @@ public class Neg_Pos_in_OneSide {
             System.out.print(arr[a] + " ");
         }
     }
-
 }
