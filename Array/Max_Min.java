@@ -20,6 +20,7 @@ public class Max_Min {
             } else if (min > arr[i]) {
                 min = arr[i];
             }
+            
         }
         System.out.println("Maximum number is " + max);
         System.out.println("Minimum number is " + min);
