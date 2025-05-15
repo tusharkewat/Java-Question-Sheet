@@ -24,5 +24,6 @@ public class Sorted_and_Rotated {
         else
             System.out.println("Array is not Sorted and Rotated.");
         sc.close();
+        
     }
 }
