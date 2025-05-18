@@ -22,5 +22,6 @@ public class Number_of_Occurrences {
         }
         System.out.println("Occurrences of "+target+" is : "+count);
         sc.close();
+        
     }
 }
